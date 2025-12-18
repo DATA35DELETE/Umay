@@ -1091,7 +1091,7 @@ Normal kullanım akışı
 
 **Okul:** [Okul adı]
 
-**GitHub Repository:** [Proje açık kaynak olarak yayınlanacaksa]
+**GitHub Repository:** [Proje Github linki](https://github.com/DATA35DELETE/Umay)
 
 ---
 
